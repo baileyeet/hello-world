@@ -1,2 +1,6 @@
 # hello-world
-first repository - learning how to use github
+
+
+Hello people!
+
+I'm Bailey. I'm an incoming college freshman who's learning Github during quarantine lol.
